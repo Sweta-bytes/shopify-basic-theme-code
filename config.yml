@@ -1,0 +1,4 @@
+development:
+  password: "STORE_API_KEY"
+  theme_id: "STORE_THEME_ID"
+  store: "YOUR_STORE_URL"
